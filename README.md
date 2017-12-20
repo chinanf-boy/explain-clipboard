@@ -6,6 +6,10 @@
 
 版本 `「 1.7.1 」`
 
+[<div style="text-align:right">chrome -clipboard 插件</div>](https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg)
+
+[<div style="text-align:right">firefox -clipboard 插件</div>](https://addons.mozilla.org/en-US/firefox/addon/codecopy/)
+
 ---
 
 ## 安装
@@ -150,6 +154,8 @@ import ClipboardAction from './clipboard-action';
 `import ClipboardAction from './clipboard-action';` 
 
 ---
+
+[<div style="text-align:right">⬆️目录，目录是谁，我怎么知道</div>](#目录)
 
 next
 
@@ -304,7 +310,12 @@ next
 
 当然，你着急可以先一步噢[-->抢救.btn点击事件行动](./README.ClipboardAction.md)
 
+[<div style="text-align:right">⬆️目录，目录是谁，我怎么知道</div>](#目录)
+
 ---
+
+next 
+
 
 那么我们看 
 
@@ -377,5 +388,7 @@ import listen from 'good-listener';
     }
 
 ```
+
+[<div style="text-align:right">⬆️目录，目录是谁，我怎么知道</div>](#目录)
 
 ---
