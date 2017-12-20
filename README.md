@@ -1,6 +1,6 @@
 # clipboard js
 
-[![explain](http://llever.com/minilogo.svg)](https://github.com/chinanf-boy/Source-Explain)
+[![explain](http://llever.com/explain.svg)](https://github.com/chinanf-boy/Source-Explain)
 
 [一键复制文本-->网址](https://clipboardjs.com/)
 
