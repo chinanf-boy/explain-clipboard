@@ -59,6 +59,8 @@ new Clipboard('.btn');
 
 - [有始有终-destroy](#删除函数)
 
+- [有关Clipboard测试和自动部署CI](#检测构建)
+
 > 彩蛋
 
 - [isSupportsed-是否支持函数](#isSupportsed)
