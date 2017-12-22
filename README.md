@@ -57,6 +57,8 @@ new Clipboard('.btn');
 
 - [监听器定义-抢救.btn行动](./README.ClipboardAction.md)
 
+- [有始有终-destroy](#删除函数)
+
 > 彩蛋
 
 - [isSupportsed-是否支持函数](#isSupportsed)
@@ -316,8 +318,27 @@ next
 
 next 
 
+## 删除函数
 
-那么我们看 
+``` js
+    /**
+     * Destroy lifecycle.
+     */
+    destroy() {
+        this.listener.destroy(); // 监听 去掉
+
+        if (this.clipboardAction) {
+            this.clipboardAction.destroy(); // action 元素和事件 去掉
+            this.clipboardAction = null;
+        }
+    }
+```
+
+---
+
+next
+
+那么我们看彩蛋 
 
 ## isSupportsed
 
